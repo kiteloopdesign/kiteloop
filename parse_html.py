@@ -12,7 +12,6 @@ from time import strftime
 filename = 'VAL.html'
 #filename = 'TOR.html'
 
-
 dates   = []
 number  = []
 alert   = []
