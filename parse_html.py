@@ -67,7 +67,7 @@ for index,date in enumerate(dates):
     days.append(date[6:8])
 
 
-knots = [int(round(float(i)*1.94384,0)) for i in wind ]
+wind = [int(round(float(i)*1.94384,0)) for i in wind ]
 
 line, = plt.plot(number, wind, label='wind',color='green',linewidth=2)
 
