@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import numpy as np
+# import numpy as np
 import sys
 sys.path.append("/home/pmora/bin/python_libs/beautifulsoup4-4.3.2/build/lib")
 import bs4
