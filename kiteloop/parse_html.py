@@ -12,12 +12,14 @@ from time import strftime
 filename = 'VAL.html'
 #filename = 'TOR.html'
 
+# change made with pycharm
 dates   = []
 number  = []
 alert   = []
 wind    = []
 dir     = []
 hours   = []
+
 
 # date and time 
 today_str = strftime("%d_%m_%Y@%Hh_%Mm")
